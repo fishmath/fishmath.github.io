@@ -1,13 +1,3 @@
----
-layout: post
-title: Test - Article with Long TOC
-key: 20150101
-tags: Test English
----
-
-Article with long TOC.
-
-<!--more-->
 
 ## TeXt Heading
 

@@ -8,7 +8,11 @@ titles:
 key: page-about
 ---
 
-mathfish的神奇海螺 :earth_asia: :earth_africa: :earth_americas:
+这是mathfish的个人（技术）博客，谢谢你的关注或路过。
+
+我主要在学习C/C++，熟悉在Linux和Mac下的编程。您如果有任何问题，欢迎与我在GitHub下探讨
+
+
 
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
@@ -16,7 +20,7 @@ mathfish的神奇海螺 :earth_asia: :earth_africa: :earth_americas:
 
 ## Skills
 
-- C语言的开发
-- Vim,github
-- data
-- Adobe Photoshop, Sketch
+- C/C++
+- Vim,github,Linux编程
+- 分布式实时处理
+- 网络编程
